@@ -3165,7 +3165,7 @@ img {
 
 @media (min-width: 1200px) {
   .container__basement {
-    width: 100%;
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
@@ -3205,8 +3205,6 @@ img {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
     display: -webkit-inline-box;
     display: -webkit-inline-flex;
     display: -ms-inline-flexbox;
@@ -3329,6 +3327,7 @@ img {
 @media (min-width: 1200px) {
   .footer__social_net {
     margin-left: 70px;
+    width: 206px;
   }
 }
 
