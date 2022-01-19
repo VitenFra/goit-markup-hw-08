@@ -2835,6 +2835,8 @@ img {
 
 @media screen and (min-width: 768px) and (max-width: 1199px) {
   .lis_of_works {
+    padding-left: 15px;
+    padding-right: 15px;
     width: 768px;
     margin: 0;
     display: -webkit-inline-box;
